@@ -1,4 +1,4 @@
-# 
+# elite SQL Server Management Studio for PC | SQL Server Management Studio for Windows Addon | data-import-export + database-design offers the most advanced SQL Server Management
 
 
 
